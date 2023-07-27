@@ -13,9 +13,7 @@ function Footer() {
          <h1 className='text-[25px]'>
             Aashish Chaulagain
          </h1>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-            Fugiat veniam eum eligendi voluptatem, delectus quo deleniti, dignissimos aspernatur quos itaque libero explicabo 
-            maiores ullam voluptates neque quaerat! Voluptate, placeat asperiores!</p>
+         <p>kam nabhako manxe aashish Chaulagain ho khali dukha pokherw basne manxe ko khoji ma hunuhunxa bhane contact 9843842902 ma samparka garnu hos</p>
             <div className='flex items-center justify-center mt-3 self-start'>
                 <div className={socialStyle + ' bg-blue-600'}>
                     <Facebook/>
